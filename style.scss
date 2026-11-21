@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styling */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.site-title {
+  font-weight: bold;
+}
+
+.page-content {
+  line-height: 1.7;
+}
