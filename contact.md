@@ -8,5 +8,5 @@ permalink: /contact/
 
 You can reach me through:
 
-- Email: your-email@example.com
-- GitHub: Your GitHub profile
+- Email: 
+- GitHub:
