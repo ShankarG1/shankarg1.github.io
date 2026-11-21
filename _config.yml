@@ -1,9 +1,5 @@
-header_pages:
-  - about.md
-  - projects.md
-  - contact.md
-title: Your Personal Website
-description: My personal projects
+title: About me 
+description: A brief introduction about me and what I do 
 
 theme: minima
 
