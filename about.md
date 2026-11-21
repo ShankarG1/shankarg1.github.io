@@ -6,8 +6,9 @@ permalink: /about/
 
 # About Me
 
-Write about your background, education,
-interests and professional goals.
+I am Shankar Prasad Ghimire from Bhaktapur, Nepal . Over the past 2 years ,my experinces in my work have shaped how I approach problem-solving . I am pursuing a Bachelor's degree in BIM from BMC . 
+My coursework and projects in ............
+Professionally I'm drawn to ..........................
 
 ## Technical Interests
 
